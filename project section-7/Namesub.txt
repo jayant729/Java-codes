@@ -1,0 +1,5 @@
+Jaden is studying Java
+Kyle is studying Python
+Dylan is studying CPP
+Spencer is studying Robotics
+Luke is studying Arts
